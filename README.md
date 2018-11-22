@@ -1,4 +1,4 @@
-# blocks-world-redux
+# Blocks World Redux
 The project I was working on under Prof. Sass from architectural department when I went to MIT during Fall 2014
 
 Some of the technical challenges I overcame:
