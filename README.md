@@ -9,7 +9,6 @@ Some of the technical challenges I overcame:
 - To find the vertices of the shapes if not elliptical in nature.
 - Avoid discontinuous edges and holes.
 - Moving the arm with PWM signals applied to the Servos synchronously with precision.
-- Cancel noise due to the CMOS sensor.
 - Check for corrections after each step is completed through a feedback loop.
-- Connecting to the robot controller through network with KCT toolbox.
+- Connecting to the robot controller to Kuka toolbox.
 - Knowing the processor which is going to be used
