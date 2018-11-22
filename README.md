@@ -13,7 +13,7 @@ Some of the technical challenges I overcame:
 - Connecting to the robot controller to Kuka toolbox.
 - Knowing the processor which is going to be used
 
-The algorithm
+### The algorithm
 1. Capture instance of the video (a snapshot).
 2. Separate the color channels (If necessary).
 3. Convert them to a binary image with the threshold set by the average of the brightest and the darkest point in the image.
